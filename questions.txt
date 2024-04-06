@@ -1,0 +1,369 @@
+/Who was the first female computer programmer?
+Grace Hopper
+Ada Lovelace*
+Sophie Wilson
+
+/What is the primary purpose of a hackathon?
+To compete in video games
+To find bugs in software
+To work collaboratively on a software or hardware project*
+To attend workshops only
+
+/Which programming language is known for its simplicity and readability?
+C++
+Java
+Python*
+
+/What does 'CPU' stand for in computer science?
+Central Process Unit
+Central Processing Unit*
+Computer Personal Unit
+Computer Processing Unit
+
+/In machine learning, what is 'supervised learning'?
+Learning without any labeled data
+Learning with labeled data*
+Learning with only images and videos
+Learning without any supervision
+
+/What is a commonly used programming paradigm in Python?
+Procedural programming
+Object-oriented programming*
+Functional programming
+Logical programming
+
+/What does 'GPU' stand for and what is it used for?
+Graphics Processing Unit, for rendering images and videos*
+Gaming Processing Unit, for gaming operations
+General Processing Unit, for general computing tasks
+Graphics Performance Unit, for graphics performance
+
+/Which algorithm is a foundational element of Google's search technology?
+QuickSort
+PageRank*
+Binary Search
+MergeSort
+
+/In the context of gaming, what does 'FPS' stand for?
+Frames Per Second*
+First Person Shooter
+Full Pixel Stream
+Fast Processing Speed
+
+/Which data structure is FIFO (First In, First Out)?
+Stack
+Queue*
+Tree
+Graph
+
+/What is the goal of reinforcement learning in machine learning?
+To predict based on historical data
+To cluster data into similar groups
+To perform tasks by trial and error, getting rewards or penalties*
+To find the relationship between variables
+
+/Which programming language is primarily used for Android app development?
+Swift
+Kotlin*
+Python
+JavaScript
+
+/What is the concept of 'Inheritance' in object-oriented programming?
+Creating new classes from existing ones*
+Copying the functionality of another class
+Accessing databases from OO languages
+Overriding methods in the same class
+
+/Which of the following is a NoSQL database?
+MySQL
+PostgreSQL
+MongoDB*
+Oracle
+
+/In computer science, what does 'API' stand for?
+Application Programming Interface*
+Automated Programming Input
+Advanced Peripheral Interface
+Application Peripheral Integration
+
+/What is 'Big O Notation' used for?
+Estimating the worst-case scenario in algorithm runtime*
+Calculating the exact runtime of an algorithm
+Determining the space complexity of an algorithm
+Measuring the best-case scenario in algorithm speed
+
+/Which cloud computing service is owned by Amazon?
+Google Cloud Platform
+Azure
+AWS*
+IBM Cloud
+
+/In gaming, what is 'lag'?
+The time it takes for a game to load
+The delay between player action and game reaction*
+A measure of game speed
+A bug causing the game to freeze
+
+/What is the primary language used for developing iOS apps?
+Java
+Swift*
+C#
+Ruby
+
+/In machine learning, what does 'neural network' refer to?
+A hardware component for machine learning
+A database of neural images for studies
+A framework for machine learning models
+A model inspired by the human brain's neurons*
+
+/What does 'HTML' stand for?
+Hyperlink and Text Markup Language
+Hyper Text Markup Language*
+High Text Machine Language
+Hyper Tool Markup Language
+
+/What is the purpose of a 'compiler' in programming?
+To convert high-level code into executable machine code*
+To check the syntax of code
+To interpret high-level code into scripting language
+To compress code into a smaller file
+
+/In computer networking, what does 'IP' stand for?
+Internet Protocol*
+Intelligent Processing
+Information Processing
+Integrated Performance
+
+/What does 'SSD' stand for, and what is it used for?
+Solid State Drive, for faster data storage and access*
+Super Speed Disk, for high-speed data transfer
+Secure Storage Device, for encrypted storage
+System Service Descriptor, in operating systems
+
+/In cybersecurity, what is 'phishing'?
+A method of fishing with high-tech equipment
+A technique for performing automated tasks
+A cyber-attack for extracting sensitive info*
+A process of scanning networks for vulnerabilities
+
+/What is 'augmented reality'?
+A completely computer-generated environment
+Superimposing computer-generated images on the real world*
+A VR type focusing on mind augmentation
+A reality augmented by adding physical objects
+
+/What is 'quantum computing'?
+Based on quantum theory, explains energy and matter behavior*
+A theoretical model exceeding the speed of light
+A branch focused on classical physics computers
+A term for the next generation of supercomputers
+
+/In software development, what is 'Agile'?
+Software for project management
+A web development language
+Principles for software development via collaborative effort*
+A software testing methodology
+
+/Which of the following is a widely used machine learning library in Python?
+NumPy
+Pandas
+Matplotlib
+TensorFlow*
+
+/What is 'blockchain' primarily known for?
+Social media
+Video streaming
+The technology of cryptocurrencies*
+Cloud storage
+
+/In computer programming, what does 'IDE' stand for?
+Integrated Development Environment*
+Intelligent Design Engine
+Interactive Development Editor
+Internet Data Encryption
+
+/What is 'DevOps'?
+A software type
+A programming language
+A methodology combining software development with IT operations*
+A cloud computing service
+
+/In the context of databases, what does 'ACID' stand for?
+Atomicity, Consistency, Isolation, Durability*
+Accuracy, Confidentiality, Integrity, Durability
+Asynchronous, Consistency, Immediate, Durable
+Atomic, Compact, Indexed, Data-oriented
+
+/What is the primary use of Docker?
+Web browsing
+Operating systems
+Social media platforms
+Deploying and running applications in containers*
+
+/In computer graphics, what does 'ray tracing' simulate?
+Internet traffic patterns
+Data movement in a network
+The physical behavior of light for image generation*
+Function calls tracing in programming
+
+/What programming paradigm does Haskell follow?
+Object-oriented programming
+Procedural programming
+Functional programming*
+Logical programming
+
+/What does 'SSH' stand for, and what is it used for?
+Secure Shell, for secure communication over unsecured networks*
+Super Secure HTTP, for encrypted browsing
+System Shell Housing, for OS interfaces
+Secure Socket Hub, for network device connections
+
+/What is the primary purpose of 'Git'?
+Text editing
+Spreadsheet management
+Version control*
+Database management
+
+/Which is a feature of 'cloud computing'?
+Data on local servers
+High upfront infrastructure cost
+Scalability and flexibility in resource usage*
+Manual updates and maintenance
+
+/What is 'deep learning'?
+A technique for deep oceanography dives
+A method for data encryption in cybersecurity
+A machine learning subset involving many-layered neural networks*
+A strategy for intensive data analysis in business
+
+/In video games, what does 'MMORPG' stand for?
+Massive Multiplayer Online Racing Play Game
+Massively Multiplayer Online Role-Playing Game*
+Major Military Operatives Role Playing Game
+Massive Market Online Retail Pricing Guide
+
+/What does 'SaaS' stand for in cloud computing?
+Software as a Service*
+Server as a Secure
+Storage as a Solution
+System as a Service
+
+/What is 'Kubernetes'?
+A Greek god of time
+A machine learning algorithm
+A system for automating software deployment, scaling, and management*
+A cybersecurity protocol
+
+/Which language is used for statistical analysis and data science?
+R*
+Python
+Java
+C++
+
+/What does 'CSS' stand for in web development?
+Cascading Style Sheets*
+Compact Style Systems
+Computer Style Syntax
+Creative Style Sheets
+
+/Which database model is MongoDB based on?
+Relational model
+Hierarchical model
+Document-oriented model*
+Network model
+
+/In software engineering, what is 'scrum'?
+A programming language
+A software bug type
+A rugby strategy
+An agile framework for complex product development*
+
+/What does 'IoT' stand for, and what does it refer to?
+Internet of Things, the network of 'things' with embedded tech*
+Intranet of Tasks, a private automated task network
+Integration of Technology, integrating new tech into systems
+Information of Tomorrow, predicting future info trends
+
+/What is 'REST' in web development?
+Reliable Electronic System Transfer
+Representational State Transfer, for designing networked apps*
+Rapid Elastic Storage Technology
+Real-time Execution and Synchronization Tool
+
+/Which is a concept in object-oriented programming?
+Recursion
+Inheritance*
+Queue
+Stack
+
+/What does 'SQL' stand for, and what is it used for?
+Structured Query Language, for managing relational databases*
+Sequential Quick List, for data organization
+Secure Quantum Link, for encrypted communications
+Simple Queue Logic, for managing data queues
+
+/What is 'virtualization'?
+Creating a virtual version of something, like hardware or networks*
+Making an OS look like another
+Enhancing video game graphics
+Developing virtual reality environments
+
+/What is 'React' used for in web development?
+Creating animated graphics
+Developing user interfaces*
+Managing databases
+Enhancing web server performance
+
+/What is 'quantum supremacy'?
+Quantum computers solving problems classical ones cannot in reasonable time*
+Quantum mechanics dominance in physics
+Quantum over classical encryption superiority
+Quantum technologies' economic advantage
+
+/What does 'NAT' stand for in networking?
+Network Address Translation, remapping IP address spaces*
+New Age Technology
+Network Allocation Table
+Nominal Attribute Technique
+
+/In version control, what is 'merging'?
+Combining changes from different branches in software development*
+Deleting obsolete software versions
+Cloning repositories for backup
+Compressing data to save space
+
+/What is a 'Docker container's' primary function?
+A lightweight, standalone, executable package for software*
+Encrypting data for transmission
+Serving as virtual machines for OS deployment
+Monitoring network traffic for cybersecurity
+
+/What role does 'cryptography' play in cybersecurity?
+Securing information through codes for intended recipients only*
+Analyzing cyber attack patterns
+Developing firewalls and antivirus software
+Studying cryptographic algorithms in blockchain
+
+/What is 'agile software development' focused on?
+Rapid, high-quality software delivery
+Developing software over long periods
+Strict adherence to detailed plans
+Focusing on hardware over software development
+
+/In web development, what is 'jQuery'?
+A JavaScript library for simplifying HTML client-side scripting*
+A CSS preprocessor
+A server-side scripting language
+A database management tool
+
+/What does 'BIOS' stand for in computing?
+Basic Input/Output System, for hardware initialization and runtime services*
+Binary Integrated Operating System
+Buffered Input/Output Sequence
+Basic Integrated Online System
+
+/What is 'Ethereum'?
+A cryptocurrency and blockchain platform with smart contract functionality*
+A new web development language
+A type of quantum computer
+A secure communication cybersecurity protocol
